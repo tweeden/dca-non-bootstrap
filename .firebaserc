@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "dca-non-boostrap",
+    "dca-non-bootstrap": "dca-non-bootstrap",
+    "dca-non-boostrap": "dca-non-bootstrap"
+  }
+}
